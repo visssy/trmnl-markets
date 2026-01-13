@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "trmnl-markets",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d028e2cd-167b-42eb-ac33-66aa70f2f869",
+			"database_name": "TRMNL_STORE"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
